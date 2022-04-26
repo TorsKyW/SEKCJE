@@ -33,7 +33,7 @@ figure {
     color: black;
     text-align: center;
     padding: 10px;
-    margin: none;
+    margin: 10px 0;
 }
 main {
     background-color: greenyellow;
